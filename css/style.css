@@ -11,7 +11,7 @@ body{
     box-sizing: border-box;
     width: 100%;
 }
-@media Screen and (max-width:1200px){body{display:none}}
+@media screen and (max-width:1200px){body{display:none}}
 main{
     margin:0px;
     padding:0px;
